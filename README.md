@@ -1,2 +1,2 @@
-# moxin-tts
-Moxin TTS (Text To Speech) 
+# Ominix-tts
+Ominix TTS (Text To Speech) 
